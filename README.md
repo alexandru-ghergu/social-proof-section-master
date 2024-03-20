@@ -9,7 +9,7 @@ This is my first solution to the [Social proof section challenge on Frontend Men
 
 ## 🎥 Live WebSite
 
-- [Live site URL](https://alexandru-ghergu.github.io/social-proof-section-main/)
+- [Live site URL](https://alexandru-ghergu.github.io/social-proof-section-master/)
 
 ## 🪄 Technologies
 
